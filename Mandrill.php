@@ -305,3 +305,5 @@ abstract class Mandrill {
         }
     }
 }
+
+?>
